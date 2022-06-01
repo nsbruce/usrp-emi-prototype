@@ -24,7 +24,7 @@ The 10GE card is Intel X710-DA2. An SFP+ direct attach copper cable is used to c
 
 ### System Requirements
 
-The basic system requirement is to provide $\approx$100 Hz frequency resolution over the full bandwidth.  
+The basic system requirement is to provide $\approx$ 100 Hz frequency resolution over the full bandwidth.  
 
 ### System Performance
 
@@ -96,4 +96,4 @@ The spectrometer thread waits on the ring buffer, and then copies the data to th
 [^gulati]: M. Gulati, S. S. Ram, and A. Singh, “An in depth study into using emi signatures for appliance identification,” arXiv:1409.4438 [cs], 2014. [Online]. Available: [http://arxiv.org/abs/1409.4438](http://arxiv.org/abs/1409.4438)
 [^petersson]: J. Petersson, “System for measuring and logging electromagnetic frequency spectra with soft-ware defined radio,” Bachelor Thesis, Chalmers University of Technology, 2016.
 [^munaut]: S. Munaut, “Rfnoc: fosphor - how to apply rfnoc to rtsa display acceleration,” 2015.
-[^ettus] E. Research, “Twinrx hardware installation guide,” 2016. [Online]. Available: [https://kb.ettus.com/images/c/cc/twinrx_hardware_installation_guide.pdf](https://kb.ettus.com/images/c/cc/twinrx_hardware_installation_guide.pdf)
+[^ettus]: E. Research, “Twinrx hardware installation guide,” 2016. [Online]. Available: [https://kb.ettus.com/images/c/cc/twinrx_hardware_installation_guide.pdf](https://kb.ettus.com/images/c/cc/twinrx_hardware_installation_guide.pdf)
